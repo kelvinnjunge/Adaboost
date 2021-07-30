@@ -1,11 +1,11 @@
 # Analysis-to-test-for-hypothyroidism
 
-#Overview
+# Overview
 
 Nairobi Hospital hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients
 
 
-#Tasks
+# Tasks
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid
 
 Using decision trees
